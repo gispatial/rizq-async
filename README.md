@@ -16,7 +16,7 @@ Async is a utility module which provides straight-forward, powerful functions fo
 
 A pure ESM version of Async is available as [`async-es`](https://www.npmjs.com/package/async-es).
 
-For Documentation, visit <https://caolan.github.io/async/>
+For Documentation, visit <https://github.com/gispatial/rizq-async/>
 
 *For Async v1.5.x documentation, go [HERE](https://github.com/gispatial/rizq-async/blob/v1.5.2/README.md)*
 
