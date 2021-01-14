@@ -1,4 +1,3 @@
-![Async Logo](https://raw.githubusercontent.com/caolan/async/master/logo/async-logo_readme.jpg)
 ![Async Logo](https://github.com/gispatial/rizq-async/blob/master/debugscreen.png)
 [![Build Status via Travis CI](https://travis-ci.org/caolan/async.svg?branch=master)](https://travis-ci.org/caolan/async)
 [![Build Status via Azure Pipelines](https://dev.azure.com/caolanmcmahon/async/_apis/build/status/caolan.async?branchName=master)](https://dev.azure.com/caolanmcmahon/async/_build/latest?definitionId=1&branchName=master)
